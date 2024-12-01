@@ -39,7 +39,7 @@ Several features in the dataset (e.g., **Glucose**, **BloodPressure**) contain a
 
 ## 5. Data Splitting
 
-- **Out-of-Sample Data (OOS)**: 10% of the dataset was set aside as out-of-sample data, used solely for endpoint testing. A smaller sample is sufficient for this purpose.
+- **Out-of-Sample Data (OOS)**: 0.04% of the dataset was set aside as out-of-sample data, used solely for endpoint testing. A smaller sample is sufficient for this purpose.
 - **Train-Validation Split**: The remaining data was split into **80% for training and 20% for validation**, a common and reasonable ratio.
 
 ---
