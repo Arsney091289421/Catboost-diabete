@@ -1,0 +1,132 @@
+{
+  "Pregnancies": 7,
+  "Glucose": 102,
+  "BloodPressure": 74,
+  "SkinThickness": 40,
+  "Insulin": 105,
+  "BMI": 37.2,
+  "DiabetesPedigreeFunction": 0.204,
+  "Age": 45
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 0,
+  "Glucose": 127,
+  "BloodPressure": 80,
+  "SkinThickness": 37,
+  "Insulin": 210,
+  "BMI": 36.3,
+  "DiabetesPedigreeFunction": 0.804,
+  "Age": 23
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 4,
+  "Glucose": 85,
+  "BloodPressure": 58,
+  "SkinThickness": 22,
+  "Insulin": 49,
+  "BMI": 27.8,
+  "DiabetesPedigreeFunction": 0.306,
+  "Age": 28
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 0,
+  "Glucose": 162,
+  "BloodPressure": 76,
+  "SkinThickness": 56,
+  "Insulin": 100,
+  "BMI": 53.2,
+  "DiabetesPedigreeFunction": 0.759,
+  "Age": 25
+}
+# Label: Diabetes
+
+{
+  "Pregnancies": 0,
+  "Glucose": 181,
+  "BloodPressure": 88,
+  "SkinThickness": 44,
+  "Insulin": 510,
+  "BMI": 43.3,
+  "DiabetesPedigreeFunction": 0.222,
+  "Age": 26
+}
+# Label: Diabetes
+
+{
+  "Pregnancies": 3,
+  "Glucose": 96,
+  "BloodPressure": 56,
+  "SkinThickness": 34,
+  "Insulin": 115,
+  "BMI": 24.7,
+  "DiabetesPedigreeFunction": 0.944,
+  "Age": 39
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 1,
+  "Glucose": 71,
+  "BloodPressure": 48,
+  "SkinThickness": 18,
+  "Insulin": 76,
+  "BMI": 20.4,
+  "DiabetesPedigreeFunction": 0.323,
+  "Age": 22
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 5,
+  "Glucose": 86,
+  "BloodPressure": 68,
+  "SkinThickness": 28,
+  "Insulin": 71,
+  "BMI": 30.2,
+  "DiabetesPedigreeFunction": 0.364,
+  "Age": 24
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 10,
+  "Glucose": 161,
+  "BloodPressure": 68,
+  "SkinThickness": 23,
+  "Insulin": 132,
+  "BMI": 25.5,
+  "DiabetesPedigreeFunction": 0.326,
+  "Age": 47
+}
+# Label: Diabetes
+
+{
+  "Pregnancies": 4,
+  "Glucose": 91,
+  "BloodPressure": 70,
+  "SkinThickness": 32,
+  "Insulin": 88,
+  "BMI": 33.1,
+  "DiabetesPedigreeFunction": 0.446,
+  "Age": 22
+}
+# Label: No Diabetes
+
+{
+  "Pregnancies": 3,
+  "Glucose": 126,
+  "BloodPressure": 88,
+  "SkinThickness": 41,
+  "Insulin": 235,
+  "BMI": 39.3,
+  "DiabetesPedigreeFunction": 0.704,
+  "Age": 27
+}
+# Label: No Diabetes
+
