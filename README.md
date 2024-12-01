@@ -102,8 +102,8 @@ To run the project locally, the following dependencies are required:
 
 1. Clone the project and navigate to the folder:
    ```bash
-   git clone https://github.com/Arsney091289421/Catboost-diabetes.git
-   cd Catboost-diabetes
+   git clone https://github.com/Arsney091289421/Catboost-diabete.git
+   cd Catboost-diabete
    ```
 2. Create and activate a virtual environment:
    ```bash
